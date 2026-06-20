@@ -447,7 +447,6 @@ export default function DiagnosticTestPage() {
                     alt="Gunaity Epicometer™ — DISC Quadrant Chart"
                     width={900}
                     height={1050}
-                    quality={100}
                     className="w-full h-auto"
                   />
                 </div>
@@ -462,7 +461,6 @@ export default function DiagnosticTestPage() {
                     alt="Career Alignment Report — Career Fit Percentages"
                     width={900}
                     height={525}
-                    quality={100}
                     className="w-full h-auto"
                   />
                 </div>
@@ -477,7 +475,6 @@ export default function DiagnosticTestPage() {
                     alt="The Four Quadrants — Framework Core"
                     width={900}
                     height={750}
-                    quality={100}
                     className="w-full h-auto"
                   />
                 </div>
@@ -492,7 +489,6 @@ export default function DiagnosticTestPage() {
                     alt="Profession Suitability Assessment"
                     width={900}
                     height={514}
-                    quality={100}
                     className="w-full h-auto"
                   />
                 </div>
